@@ -47,8 +47,8 @@ Se utilizó la API pública de Pokémon:
 - Búsqueda en tiempo real
 - Mínimo 3 caracteres
 - Mensajes de estado:
------- "Buscando..."
------- "No se encontraron resultados"
+ * "Buscando..."
+  * "No se encontraron resultados"
 
 ## 6. Estilos CSS
 - Uso de variables CSS (:root)
@@ -67,7 +67,10 @@ Se utilizó la API pública de Pokémon:
 
 ---
 
-📂 Estructura del proyecto
+
+## 📂 Estructura del proyecto
+
+
 tp5-javascript/
 │
 ├── index.html
@@ -88,6 +91,7 @@ tp5-javascript/
 ├── images/
 │
 └── README.md
+
 
 
 ## Cómo usar

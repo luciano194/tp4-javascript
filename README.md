@@ -44,9 +44,9 @@ Se utilizó la API pública de Pokémon:
 - Renderizado dinámico de datos
 
 ## 5. Buscador dinámico
-- Búsqueda en tiempo real
-- Mínimo 3 caracteres
-- Mensajes de estado:
+* Búsqueda en tiempo real
+* Mínimo 3 caracteres
+* Mensajes de estado:
  * "Buscando..."
   * "No se encontraron resultados"
 
@@ -70,28 +70,30 @@ Se utilizó la API pública de Pokémon:
 
 ## 📂 Estructura del proyecto
 
+## 📂 Estructura del proyecto
 
+```
 tp5-javascript/
-│
+
 ├── index.html
 ├── productos.html
 ├── todo.html
 ├── api-demo.html
-│
+
 ├── js/
 │   ├── ejercicios.js
 │   ├── productos.js
 │   ├── todo.js
 │   └── api.js
-│
+
 ├── css/
 │   ├── style.css
 │   └── app.css
-│
-├── images/
-│
-└── README.md
 
+├── images/
+
+└── README.md
+```
 
 
 ## Cómo usar

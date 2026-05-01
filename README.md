@@ -67,9 +67,6 @@ Se utilizó la API pública de Pokémon:
 
 ---
 
-
-## 📂 Estructura del proyecto
-
 ## 📂 Estructura del proyecto
 
 ```

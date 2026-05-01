@@ -116,3 +116,7 @@ git clone https://github.com/luciano194/tp4-javascript.git
 ✔ Cumple con todos los requisitos del TP
 
 
+
+- "Proyecto realizado con fines educativos" 
+
+
